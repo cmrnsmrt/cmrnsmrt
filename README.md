@@ -2,11 +2,11 @@
 
 ## About Me
 
-- 🖥️ Fourth year Computing Student at Abertay University.
-- 🕵️ Research Assistant at Abertay University.
-- 📈 Currently working in retail sales.
+- 🖥️ Studied Computing at Abertay University (2019-2023).
+- 🕵️ Previously a Research Assistant at Abertay University.
+- 📈 Software Engineer at NCR.
 
-## Current Projects
+## Recent Projects
 
 - 👾 Gamified bug bounty portal for Abertay University.
 - ❤️ Honours project researching romance fraud and gamification in education.
