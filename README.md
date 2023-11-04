@@ -4,7 +4,7 @@
 
 - 🖥️ Studied BSc (Hons) Computing at Abertay University (2019-2023).
 - 🕵️ Previously a Research Assistant at Abertay University.
-- 📈 Software Engineer at NCR.
+- 📈 Software Engineer at NCR Atleos.
 
 ## Recent Projects
 
