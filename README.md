@@ -8,6 +8,7 @@
 
 ## Recent Projects
 
+- 🎧 Spotify listening history and statistics page.
 - 👾 Gamified bug bounty portal for Abertay University.
 - ❤️ Honours project researching romance fraud and gamification in education.
 - 👁️ Advanced computing project exploring machine learning and computer vision.
